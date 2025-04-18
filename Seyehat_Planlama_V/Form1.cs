@@ -16,5 +16,10 @@ namespace Seyehat_Planlama_V
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Seyma <3");
+        }
     }
 }

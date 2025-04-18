@@ -19,7 +19,7 @@ namespace Seyehat_Planlama_V
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Seyma <3");
+            MessageBox.Show("deneemee");
         }
     }
 }
